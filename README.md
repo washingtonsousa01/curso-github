@@ -6,3 +6,9 @@ Esta é a minha primeira alteração na branch cadast
 
 # Aula de Git pelo terminal 
 Hoje aprendi a usar o Git status no VS code. 
+
+## PErfil do aluno 
+
+Nome: Washington 
+Curso: ADS 
+Aprendendo Git pelo terminal. 
