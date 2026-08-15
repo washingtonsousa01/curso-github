@@ -9,3 +9,5 @@ Esta é a minha primeira alteração na branch cadastro.
 # Prática de Git
 
 Aprendendo Git na prática.
+
+Praticando comandos Git. 
