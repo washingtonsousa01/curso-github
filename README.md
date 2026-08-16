@@ -10,4 +10,8 @@ Esta é a minha primeira alteração na branch cadastro.
 
 Aprendendo Git na prática.
 
-Praticando comandos Git. 
+Praticando comandos Git.
+
+## merge 
+
+Praticando como juntar branches com Git. 
