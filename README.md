@@ -6,3 +6,14 @@ Esta é a minha primeira alteração na branch cadast
 
 # Aula de Git pelo terminal 
 Hoje aprendi a usar o Git status no VS code. 
+Esta é a minha primeira alteração na branch cadastro.
+
+# Prática de Git
+
+Aprendendo Git na prática.
+
+Praticando comandos Git.
+
+## merge 
+
+Praticando como juntar branches com Git. 
